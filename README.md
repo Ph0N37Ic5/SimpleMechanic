@@ -7,3 +7,5 @@ Install by copying these files to /usr/share/kpat/themes/
  - simplemechanic.png
 
 And the svg-simple-mechanic folder to /usr/share/carddecks/
+
+![KPatience Theme Preview](preview.png)
